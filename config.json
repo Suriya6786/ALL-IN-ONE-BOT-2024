@@ -1,8 +1,8 @@
 {
-    "token": "",
+    "token": "MTMwMDExNzIzODg5MTk0MTkyOA.G6ujeU.sfMK3Sy0-4fOn_hbPNb7C7ZpE7bkOAeLiKb09U",
     "language": "en",
     "prefix": "!",
-    "mongodbUri": "",
+    "mongodbUri": "mongodb+srv://UPTIMERNODE:UPTIMERNODE@uptimernode.j1jsvdf.mongodb.net/?retryWrites=true&w=majority",
     "geniusToken": "0CHr9jtPjR7EKraXUVv6__8ELmEwFeUwt5vYAhk-is_fGOq-10-epdMzESkMPUnf",
     "excessCommands": {
         "utility": true,
